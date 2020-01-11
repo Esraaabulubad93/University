@@ -1,0 +1,299 @@
+body
+{
+letter-spacing: .2em;
+font-family: sans-serif;
+}
+#rowesraa
+{
+padding: 30px;	
+}
+#one
+{
+font-size: 25px;
+margin-left: 100px;	
+} 
+#two
+{
+margin-left: 200px;	
+}
+#two a
+{
+  color: black;
+  margin-left: 20px;
+}
+#bbb 
+{
+	width: 100px;
+	height: 100px;
+}
+.navbar
+{
+	margin-bottom: 0;
+}
+
+#first
+{
+    color: white;
+    background-image: url('img1.webp');	
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 600px;
+    background-size: cover;
+    text-align: center;
+    padding-top: 250px;
+}
+
+#three
+{
+	background-color: white;
+	padding-top:10px;
+	padding-bottom:10px;
+	width: 950px;
+	
+	
+}
+#three input
+{
+	border:0 none;
+	font-size: 20px;
+	width: 250px;
+	height: 50px;
+}
+#three 	select
+{
+	height: 50px;
+	width: 250px;
+	border:0 none;
+
+}
+#four
+{
+	margin-top: 30px;
+}
+#five
+{
+margin-left: 100px;	
+padding: 30px;
+}
+#five1
+{
+	color: #11cbd7;
+	margin-bottom: 20px;
+	font-size: 45px;
+}
+
+#five2
+{
+margin-bottom: 50px;
+}
+#t21
+{
+margin-top: 50px; 
+margin-left: 100px;	
+}
+#t21 h4
+{
+color:#11CBD7;
+font-size: 30px;
+}
+#t21 h6
+{
+	font-size: 10px;
+color:#cccccc;
+}
+#seven
+{
+	margin-top: 50px;
+}
+#seven h5
+{
+	font-size: 20px;
+    font-weight: 400;
+}
+#eight
+{
+font-size: 40px;
+color:#cccccc;
+}
+#nd
+{
+background-color: #F8F9FA;
+
+padding-bottom: 150px;	
+}
+#new
+{
+	margin-top: 50px;
+	padding-left: 100px;
+	padding-top: 100px;
+}
+#ten1
+{
+	color: #11CBD7;
+	padding-left: 100px;
+}
+#ten2
+{
+	color: #808080;
+	padding-left: 100px;
+}
+#sec
+{
+	text-align: center;
+	background-color: #F8F9FA;
+}
+#sec1
+{
+	color: #11CBD7;
+	font-family: sans-serif;
+}
+#sec2
+{
+	color: #808080;
+	font-size: 16px;
+}
+#ele img
+{
+	width: 400px;
+    height: 300px;
+}
+#ele
+{
+	background-color: white;
+	padding: 30px;
+}
+
+#ele p
+{
+	color: #808080;
+	font-family: sans-serif;
+
+}
+#tw
+{ 
+	margin-top: 100px;
+	text-align: center;
+}
+#thred
+{
+	background-color: #90ee90;
+	height: 400px;
+	width: 300px;
+	margin-left: 120px;
+	padding-top: 320px;
+	padding-left: 20px;
+	color: white;
+	margin-top:50px;
+}
+#thre
+{
+	margin-top:50px;
+}
+#ford
+{
+	margin-top: 100px;
+	margin-bottom: 0px;
+}
+#sec1
+{
+	text-align: center;
+}
+#sec2
+{
+    margin-top: 50px;
+	text-align: center;
+}
+#fife
+{
+	margin-top: 70px;
+	background-color: white;
+}
+#l
+{
+	margin-top: 50px;
+	padding: 20px;
+}
+#fife1
+{
+	margin-top: 70px;
+}
+#m
+{
+	margin-top: 20px;
+	
+}
+#t
+{
+	font-size: 18px;
+    font-weight: 300;
+}
+
+#m img
+{
+	width: 155px;
+	height: 93px
+}
+#esraa
+{
+	margin-top: 30px;
+	width: 500px;
+	background-color: white;
+}
+#esraa input
+{
+	border:0 none;
+	font-size: 20px;
+	width: 370px;
+	height: 50px;
+}
+#m6
+{
+background-color: #11cbd7;
+color: white;
+padding-left: 100px;
+margin-bottom: 0px;
+}
+#m7
+{
+	padding-left: 100px;
+}
+#gith
+{
+	font-size: 10px;
+	margin-top: 15px;
+	color: #cccccc;
+}
+#mela
+{
+	color: #cccccc;
+}
+#mh
+{
+	margin-top: 20px;
+}
+#color
+{
+	color: #11cbd7;
+}
+#na
+{
+	font-size: 20px;
+}
+#bl
+{
+	color: #11cbd7;
+}
+#sp
+{
+	margin-top: 30px;
+	margin-left: 15px;
+}
+#pl
+{
+margin-top: 50px;
+}
+#pll
+{
+color: #11cbd7;
+margin-left: 15px;	
+}
